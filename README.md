@@ -27,6 +27,7 @@ This project is a case study for designing and implementing a dashboard to visua
 
 ## .env file example
 APIKEY=AUTHENTICATHIONTOKEN
+
 APIURL=URL
 
 ## Usage
