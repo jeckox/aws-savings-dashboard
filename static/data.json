@@ -1,0 +1,29 @@
+{
+	"overview": {
+		"totalSavings": 1200.5,
+		"currentMonthSavings": 200.75,
+		"percentageChange": 15.5
+	},
+	"savingsTrends": [
+		{ "month": "January", "savings": 150.0 },
+		{ "month": "February", "savings": 175.0 },
+		{ "month": "March", "savings": 200.0 },
+		{ "month": "April", "savings": 225.0 },
+		{ "month": "May", "savings": 250.0 },
+		{ "month": "June", "savings": 200.75 }
+	],
+	"savingsByCategory": [
+		{ "service": "EC2", "savings": 500.0 },
+		{ "service": "S3", "savings": 300.0 },
+		{ "service": "RDS", "savings": 250.0 },
+		{ "service": "Lambda", "savings": 150.0 }
+	],
+	"detailedSavings": [
+		{ "date": "2025-06-01", "service": "EC2", "amount": 50.0 },
+		{ "date": "2025-06-02", "service": "S3", "amount": 30.0 },
+		{ "date": "2025-06-03", "service": "RDS", "amount": 25.0 },
+		{ "date": "2025-06-04", "service": "Lambda", "amount": 15.0 },
+		{ "date": "2025-06-05", "service": "EC2", "amount": 60.0 },
+		{ "date": "2025-06-06", "service": "S3", "amount": 40.0 }
+	]
+}
